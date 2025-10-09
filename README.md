@@ -16,14 +16,20 @@ If you plan to use a different knob, make sure its **diameter does not exceed 22
 There are no special requirements for printing.
 Just make sure you correctly orient the model so that the proper surface faces the build plate.
 
-All test prints were successfully produced using:
-- **0.4 mm nozzle**
-- **0.18 mm layer height**
+All test prints using:
+- 0.4 mm nozzle
+- 0.18 mm layer height
+- BBL PLA Matte Black
+- BBL Smooth PEI Plate
+ 
 
 For screw mounting, friction-fit holes sized **1.9 mm** are provided for **M2 screws**.
 Accurate wall thickness and print precision are important for proper fit.
 
 Supports can be used when printing the **bottom case** if you want.
+
+> [!TIP]
+> Recommended 100% Infill ratio for the plate and the bottom case.
 
 
 ## Assembly
@@ -40,7 +46,8 @@ Before assembly, **trim any protruding legs (ex: encoder pins)** using flush cut
 ##  Files
 
 All STEP files are located in the steps directory.
-Except for the bottom case, each part can be mirrored for left or right hand use.
+> [!TIP]
+> Except for the bottom case, each part can be mirrored for left or right hand use.
 
 | File | Description |
 |------|--------------|
