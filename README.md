@@ -21,7 +21,7 @@ All test prints using:
 - 0.18 mm layer height
 - BBL PLA Matte Black
 - BBL Smooth PEI Plate
- 
+
 
 For screw mounting, friction-fit holes sized **1.9 mm** are provided for **M2 screws**.
 Accurate wall thickness and print precision are important for proper fit.
@@ -42,6 +42,8 @@ The **original plate** is **not compatible** with this case. print the provided 
 
 Before assembly, **trim any protruding legs (ex: encoder pins)** using flush cutters, as they may interfere with case clearance.
 
+The battery height is recommended to be no more than 4.6 mm.
+
 
 ##  Files
 
@@ -56,7 +58,6 @@ All STEP files are located in the steps directory.
 | `TOP.step` | top case (without encoder), mirror if needed |
 | `TOP_ENCODER.step` | top case (with encoder), mirror if needed |
 | `PLATE.step` | Plate (mirror if needed) |
-
 
 ## Photos
 
