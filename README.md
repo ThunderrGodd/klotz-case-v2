@@ -65,3 +65,10 @@ All STEP files are located in the steps directory.
 ![p3](./images/klotz3.webp)
 ![p4](./images/klotz4.webp)
 ![p5](./images/klotz5.webp)
+
+### Variant Demo
+
+Multi-color printing with the original outlines.
+
+![v1](./images/kk1.webp)
+![v2](./images/kk2.webp)
