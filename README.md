@@ -70,7 +70,7 @@ All STEP files are located in the steps directory.
 | `R_BOTTOM underswitch.step` | Right bottom case with under-mounted switch |
 | `L_BOTTOM underswitch.step` | Left bottom case with under-mounted switch  |
 | `TOP underswitch.step` | top case (without encoder), with under-mounted switch, mirror if needed |
-| `TOP underswitch multicolor outline.3mf` | top case (without encoder), with under-mounted switch, mirror if needed |
+| `TOP underswitch multicolor outline.3mf` | top case (without encoder), with under-mounted switch, for multicolor outline printing, mirror if needed |
 | `V2 PLATE.step` | Plate for choc V2 switches (mirror if needed) |
 | `V2 PLATE no LED.step` | Plate for choc V2 switches (without LEDs) (mirror if needed) |
 
