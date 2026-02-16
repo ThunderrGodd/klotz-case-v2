@@ -6,6 +6,8 @@ A fully compatible replacement case for the [**KLOTZ** by **GEIST**](https://git
 
 This case is designed primarily for **FDM 3D printing**, though other methods and materials should also work without issues.
 
++ Added V2 files for Kailh Choc V2 switches, as the switch size differs.
+
 ## Encoder Knob Compatibility
 
 The encoder knob was **tested and designed exclusively for GEIST’s original KLOTZ knob**.
@@ -51,6 +53,8 @@ All STEP files are located in the steps directory.
 > [!TIP]
 > Except for the bottom case, each part can be mirrored for left or right hand use.
 
+- ### V1 Files
+
 | File | Description |
 |------|--------------|
 | `R_BOTTOM.step` | Right bottom case |
@@ -58,6 +62,17 @@ All STEP files are located in the steps directory.
 | `TOP.step` | top case (without encoder), mirror if needed |
 | `TOP_ENCODER.step` | top case (with encoder), mirror if needed |
 | `PLATE.step` | Plate (mirror if needed) |
+
+- ### V2 Files
+
+| File | Description |
+|------|--------------|
+| `R_BOTTOM underswitch.step` | Right bottom case with under-mounted switch |
+| `L_BOTTOM underswitch.step` | Left bottom case with under-mounted switch  |
+| `TOP underswitch.step` | top case (without encoder), with under-mounted switch, mirror if needed |
+| `TOP_ENCODER.step` | top case (with encoder), with under-mounted switch, mirror if needed |
+| `V2 PLATE.step` | Plate for choc V2 switches (mirror if needed) |
+| `V2 PLATE no LED.step` | Plate for choc V2 switches (without LEDs) (mirror if needed) |
 
 ## Photos
 
